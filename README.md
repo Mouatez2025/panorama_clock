@@ -1,6 +1,8 @@
 ## ⏱️ Pomodoro Timer (Tkinter) ##
 A visually simple and effective Pomodoro timer built using Python's Tkinter GUI framework. Use this app to boost productivity using the Pomodoro Technique—a method of working in focused 25-minute sessions, separated by short breaks.
 
+<img width="531" height="455" alt="Screenshot 2025-08-11 at 4 32 28 PM" src="https://github.com/user-attachments/assets/2fb17851-ef15-4a64-aa05-f79630341450" />
+
 .
 
 ## 🧠 How Pomodoro Works ##
